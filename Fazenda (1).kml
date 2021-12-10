@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Fazenda</name>
+	<gx:CascadingStyle kml:id="__managed_style_25B62C273D1ED88F1481">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1DDE09B1421ED88F1481">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E2A1899E51ED88F1481">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1DDE09B1421ED88F1481</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_25B62C273D1ED88F1481</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_253AE1C1441ED869EAD2">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffd27619</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A2917222F1ED869EAD2">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffd27619</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_054AAD27591ED869EAD2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A2917222F1ED869EAD2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_253AE1C1441ED869EAD2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="08524F50B31ED8687A9D">
+		<name> Teste</name>
+		<description><![CDATA[<div>Teste</div>]]></description>
+		<LookAt>
+			<longitude>-48.94483097012357</longitude>
+			<latitude>-22.45112496938138</latitude>
+			<altitude>618.8511167909616</altitude>
+			<heading>20.98549133501757</heading>
+			<tilt>4</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3463.886290852098</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_054AAD27591ED869EAD2</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-48.95358242883758,-22.44849145435994,632.8962645152933 -48.9544839296659,-22.44810675182227,634.8884522143184 -48.95645587594585,-22.44747582826314,636.8704859462653 -48.9573887948501,-22.44823593417723,632.3959378206301 -48.95762206135683,-22.449290224557,629.8007555500141 -48.95745790521567,-22.45087191872357,623.4426686635632 -48.95614183955712,-22.45161022001024,624.4379997424398 -48.95480674470422,-22.45104879845551,625.9348650725844 -48.95285361708457,-22.45097497308525,629.3142281266175 -48.94979425823569,-22.45103201778558,630.3599410820494 -48.94851896936345,-22.4507038586614,631.9285856181733 -48.94712386344048,-22.45016316602775,633.1470310092867 -48.94597706416974,-22.44962131806505,634.3868288203962 -48.94483382173146,-22.44904835885947,632.7250052025016 -48.94428648751198,-22.44883424497372,631.4090316519973 -48.94394810089844,-22.44842029425577,629.0669195043878 -48.94389588326253,-22.44815474440537,628.1162183529955 -48.94417638531344,-22.44744728629197,627.1020023503477 -48.94477352729195,-22.44704981214686,626.960500886673 -48.94520313076451,-22.44688479870372,626.3015019043207 -48.94601168748083,-22.44672008433047,625.5180663124113 -48.94695340968969,-22.44670129929404,625.7275095870147 -48.94780277377933,-22.44671765539688,627.3500810887751 -48.9490531526347,-22.44682186232397,627.4414218689036 -48.94932869987814,-22.4468624324965,628.1532503694458 -48.9502067381816,-22.44685464310519,629.6953015796514 -48.95084483335613,-22.44684056376539,629.5446624082589 -48.95145842378983,-22.44674072359788,630.7347557217352 -48.95206014263194,-22.44673512808755,631.9284654494504 -48.95225441872967,-22.44721829538554,632.7997287685347 -48.95238262896292,-22.44792928059849,632.8762766580691 -48.95273781584661,-22.44848809572125,632.1171891880437 -48.95358242883758,-22.44849145435994,632.8962645152933 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="03FEF882081ED88F1481">
+		<name>Fazendinha</name>
+		<LookAt>
+			<longitude>-48.93814742919334</longitude>
+			<latitude>-22.4523335838726</latitude>
+			<altitude>614.8759790596851</altitude>
+			<heading>0.9929460161613917</heading>
+			<tilt>3.001164808936398</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4630.540581928218</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E2A1899E51ED88F1481</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-48.95695551676186,-22.44440911821901,630.0141328189341 -48.95426957738859,-22.44690767445736,638.3716303360076 -48.95311007231123,-22.44435755389645,625.7301406420582 -48.95308917481799,-22.4438757922962,623.5817783330926 -48.95276356134262,-22.44350453922135,621.035389294539 -48.95215762828629,-22.44333432451219,620.22295679713 -48.95176449890183,-22.44325429548118,618.8107554546768 -48.95145966708156,-22.44200175503159,612.3652703679153 -48.95150491327921,-22.44130029161797,603.5899357062071 -48.95155094068038,-22.44096750692376,598.4458465633783 -48.95212657368273,-22.44105049631967,600.568582751438 -48.95695551676186,-22.44440911821901,630.0141328189341 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="053166E9C31ED88F5090">
+		<name>Imovel 1</name>
+		<LookAt>
+			<longitude>-48.93814742974023</longitude>
+			<latitude>-22.45233358319634</latitude>
+			<altitude>614.875979063929</altitude>
+			<heading>0.9929460065079047</heading>
+			<tilt>3.001164809604022</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4630.540581928217</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E2A1899E51ED88F1481</styleUrl>
+		<Point>
+			<coordinates>-48.95008883436662,-22.44767819648495,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
